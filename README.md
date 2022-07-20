@@ -53,7 +53,6 @@ Skills: HTML / CSS / BOOTSTRAP / JS / JQUERY /  PHP / WORDPRESS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhasansarkar&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abuhasansarkar)  
 
 ![GitHub metrics](https://metrics.lecoq.io/abuhasansarkar)  
 
