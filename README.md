@@ -1,4 +1,4 @@
-(https://media-exp1.licdn.com/dms/image/C4E16AQGXeBvyo8JchQ/profile-displaybackgroundimage-shrink_200_800/0/1634708763221?e=1663804800&v=beta&t=U2ci7gF5JIkH3DmEzDJDDwMe-YHTme6itFnjb99n728)
+https://twitter.com/skilledcoder24h/header_photo
 # Hi there 👋, I am AbuHasan Sarkar
 ## Professional web designer and WordPress Expert
 ![Professional web designer and WordPress Expert]
