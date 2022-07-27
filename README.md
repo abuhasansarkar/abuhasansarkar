@@ -1,4 +1,5 @@
 ![Professional web designer and WordPress Expert](https://media-exp1.licdn.com/dms/image/C4E16AQGXeBvyo8JchQ/profile-displaybackgroundimage-shrink_350_1400/0/1634708763221?e=1663804800&v=beta&t=FwJb2fseyS7u0bAyJCbYy9Fgb9ciuRtcASzKr9H3mIE)
+https://media-exp1.licdn.com/dms/image/C4D1BAQHlN9ggQk-otg/company-background_10000/0/1621304687257?e=1659488400&v=beta&t=IMbAV8ngHbl-Qo_hRzE-49FBCK-U6X5CMRa5E6ifpic
 # Hi there 👋, I am AbuHasan Sarkar
 ## Professional web designer and WordPress Expert
 
