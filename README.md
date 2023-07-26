@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm AbuHasan Sarkar</h1>
-<img width="100%" height="300px" src="https://nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg" />
+<img width="100%" height="300px" src="[https://nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg](https://www.bytestechnolab.com/wp-content/uploads/2023/04/Why-Businesses-are-Embracing-MEAN-Stack-Developers-for-Web-and-App-Development.webp)" />
 
 <h3 align="center">As Professional Front-End Web Developer and WordPress Expert</h3>
 
