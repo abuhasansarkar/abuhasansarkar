@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm AbuHasan Sarkar</h1>
-<img width="100%" height="300px" src="https://www.bytestechnolab.com/wp-content/uploads/2023/04/Why-Businesses-are-Embracing-MEAN-Stack-Developers-for-Web-and-App-Development.webp" />
+<img width="100%" height="300px" src="https://www.daac.in/images/course/78838d57d1a7987f1183db17cb6c27f6793802489-mern.jpg" />
 
 <h3 align="center">As Professional Front-End Web Developer and WordPress Expert</h3>
 
