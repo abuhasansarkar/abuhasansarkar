@@ -1,6 +1,7 @@
-<img width="100%" height="400px" src="https://nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg" />
 
 <h1 align="center">Hi 👋, I'm AbuHasan Sarkar</h1>
+<img width="100%" height="300px" src="https://nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg" />
+
 <h3 align="center">As Professional Front-End Web Developer and WordPress Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuhasansarkar&label=Profile%20views&color=0e75b6&style=flat" alt="abuhasansarkar" /> </p>
