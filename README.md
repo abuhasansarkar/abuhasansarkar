@@ -49,9 +49,9 @@
 [![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
 [![Socket.io Badge](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](#) 
 
-## WordPress CMS  <img src = "https://logos-world.net/wp-content/uploads/2020/10/WordPress-Logo-700x394.png" width="50px" height="30px">
+## WordPress CMS  <img src = "https://www.siteimprove.com/contentassets/9851cb664830495fb17c318335b251a4/wordpress-plugin.png" width="100%" height="30px">
 
-[![WordPress]('')](#)
+[![WordPress]('https://www.iconsdb.com/icons/preview/white/wordpress-5-xxl.png')](#)
 
 
 
@@ -78,8 +78,8 @@
 
 <div align="center">
 
-## Must Used Languages
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=burnt-neon")
+## Must Use Languages
+![Must Use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=burnt-neon")
 
 
 ## GitHub Stats
