@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=550&lines=I'm+a+Frontend+Developer;I'm+a+Backend+Developer;WordPress Web Developer; B2B Lead Generation Expert" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=550&lines=MERN Stack Web Developer; Frontend+Developer; Backend+Developer;WordPress Web Developer; B2B Lead Generation Expert" alt="Typing SVG" />
  </a>
 </p>
 
@@ -49,7 +49,7 @@
 [![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
 [![Socket.io Badge](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](#) 
 
-## WordPress CMS  <img src = "https://www.siteimprove.com/contentassets/9851cb664830495fb17c318335b251a4/wordpress-plugin.png" width="200px" height="30px">
+## WordPress CMS  <img src = "https://www.siteimprove.com/contentassets/9851cb664830495fb17c318335b251a4/wordpress-plugin.png" width="100px" height="30px">
 
 [![WordPress]('https://www.iconsdb.com/icons/preview/white/wordpress-5-xxl.png')](#)
 
@@ -79,20 +79,20 @@
 <div align="center">
 
 ## Must Use Languages
-![Must Use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=burnt-neon")
+![Must Use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasansarkar&layout=compact&theme=burnt-neon")
 
 
 ## GitHub Stats
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripassorker2&show_icons=true&locale=en&theme=aura" alt="ripassorker2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuhasansarkar&show_icons=true&locale=en&theme=aura" alt="abuhasansarkar" /></p>
 
 
 
 ## Streak Stats
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&theme=burnt-neon" alt="ripassorker2"/></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasansarkar&theme=burnt-neon" alt="abuhasansarkar"/></p>
 
 
-![visitors](https://komarev.com/ghpvc/?username=ripassorker2)
+![visitors](https://komarev.com/ghpvc/?username=abuhasansarkar)
 
 
 </div>
@@ -101,7 +101,7 @@
 
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ripassorker2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abuhasansarkar)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -112,10 +112,10 @@
 
 
 ## GitHub Metrics
-![GitHub metrics](https://metrics.lecoq.io/ripassorker2)
+![GitHub metrics](https://metrics.lecoq.io/abuhasansarkar)
 
 ## GitHub Activity Graph
-![GitHub Activity Graph](https://github.com/ripassorker2) 
+![GitHub Activity Graph](https://github.com/abuhasansarkar) 
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg) -->
 
