@@ -49,7 +49,7 @@
 [![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
 [![Socket.io Badge](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](#) 
 
-## WordPress CMS  <img src = "https://www.siteimprove.com/contentassets/9851cb664830495fb17c318335b251a4/wordpress-plugin.png" width="100%" height="30px">
+## WordPress CMS  <img src = "https://www.siteimprove.com/contentassets/9851cb664830495fb17c318335b251a4/wordpress-plugin.png" width="200px" height="30px">
 
 [![WordPress]('https://www.iconsdb.com/icons/preview/white/wordpress-5-xxl.png')](#)
 
