@@ -49,7 +49,7 @@
 [![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
 [![Socket.io Badge](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](#) 
 
-## 💻 WordPress CMS  <img src = "https://logos-world.net/wp-content/uploads/2020/10/WordPress-Logo-700x394.png" width="30px" height="30px">
+## WordPress CMS  <img src = "https://logos-world.net/wp-content/uploads/2020/10/WordPress-Logo-700x394.png" width="50px" height="30px">
 
 [![WordPress]('')](#)
 
