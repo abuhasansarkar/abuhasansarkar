@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=550&lines=MERN Stack Web Developer; Frontend+Developer; Backend+Developer;WordPress Web Developer; B2B Lead Generation Expert" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=550&lines=MERN Stack Web Developer; Frontend+Developer; Backend+Developer;WordPress Expert;" alt="Typing SVG" />
  </a>
 </p>
 
